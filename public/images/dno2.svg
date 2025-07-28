@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.80201mm"
+   height="95.221581mm"
+   viewBox="0 0 46.80201 95.221581"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="kuverta.svg"
+   inkscape:export-filename="Desktop\vrh.svg"
+   inkscape:export-xdpi="99.323906"
+   inkscape:export-ydpi="99.323906"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1089995"
+     inkscape:cx="343.29074"
+     inkscape:cy="269.79618"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2979"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2977" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2958"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#afa998;stop-opacity:1;"
+         offset="0"
+         id="stop2956" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5190"
+       x="-0.015409389"
+       y="-0.020520223"
+       width="1.032959"
+       height="1.0329642">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5180" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5182" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur5184" />
+      <feOffset
+         dx="0.1"
+         dy="-0.46729"
+         result="offset"
+         id="feOffset5186" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5188" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Sloj 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.530596,-23.671008)">
+    <a
+       id="a7932">
+      <g
+         id="g7925">
+        <path
+           style="fill:#c0bdb0;fill-opacity:1;stroke-width:0.264583"
+           d="m 79.600834,38.451782 22.299526,22.472023 1.59954,4e-6 22.83271,-22.722934 v 80.670095 l -46.73697,0.008 z"
+           id="path435"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#c0bdb0;fill-opacity:1;stroke-width:0.264583;filter:url(#filter5190)"
+           d="m 79.541008,83.629969 v 7.025441 c 0,0 -0.229394,27.0627 0.486136,27.98691 0.476976,0.61609 22.095656,0.36579 22.095656,0.36579 0,0 23.17705,0.5639 23.73809,-0.27884 0.49752,-0.74733 0.34916,-28.01113 0.34916,-28.01113 v -6.962721 l -22.79615,-22.419006 -1.50276,-0.0031 z"
+           id="path384-0"
+           sodipodi:nodetypes="ccscsccccc"
+           transform="matrix(0.96526734,0,0,0.98292986,3.6656703,1.0267002)" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.72002px;line-height:0.8;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';text-align:center;letter-spacing:-0.01308px;word-spacing:-0.02289px;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.327514"
+           x="106.74062"
+           y="82.099472"
+           id="text998"
+           transform="scale(0.9657591,1.0354549)"><tspan
+             sodipodi:role="line"
+             id="tspan996"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.72002px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';stroke-width:0.327515"
+             x="106.74062"
+             y="82.099472"
+             rotate="359.20001 359.20001 359.20001 359.20001 359.20001 359.20001 0"
+             dy="-0.09887255"
+             dx="-0.061795346">Filipa</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.72002px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';stroke-width:0.327515"
+             x="106.74062"
+             y="89.524857"
+             id="tspan1000"
+             rotate="359.20001 0">i</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.72002px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';stroke-width:0.327515"
+             x="106.73409"
+             y="96.950241"
+             id="tspan1002"
+             rotate="359.20001 359.20001 359.20001 359.20001 359.20001 359.20001 0">Nikola</tspan></text>
+      </g>
+    </a>
+  </g>
+</svg>

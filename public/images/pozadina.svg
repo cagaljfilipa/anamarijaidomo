@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.801994mm"
+   height="95.221581mm"
+   viewBox="0 0 46.801994 95.221581"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="kuverta.svg"
+   inkscape:export-filename="Desktop\vrh.svg"
+   inkscape:export-xdpi="99.323906"
+   inkscape:export-ydpi="99.323906"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="67.487984"
+     inkscape:cx="470.26149"
+     inkscape:cy="145.13695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2979"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2977" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2958"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#afa998;stop-opacity:1;"
+         offset="0"
+         id="stop2956" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Sloj 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.530596,-23.671008)">
+    <a
+       id="a7932">
+      <g
+         id="g7925">
+        <path
+           style="fill:#aebaa4;fill-opacity:1;stroke-width:0.264583"
+           d="m 79.600834,38.451782 23.050946,-0.235032 0.0163,-0.03514 23.49593,-0.0082 0.16858,80.69754 -46.73697,0.008 z"
+           id="path435"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+    </a>
+  </g>
+</svg>
