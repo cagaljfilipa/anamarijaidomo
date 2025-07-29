@@ -95,7 +95,10 @@ function GuestTable({
               className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:border-indigo-500"
             />
           </div>
-          <div className="flex flex-row items-center  mx-20 p-2 shadow-slate-400">
+          <div
+            className="flex flex-row items-center p-2 shadow-slate-400"
+            style={{ justifyContent: "center" }}
+          >
             <div className=" w-100 flex flex-col justify-center items-center gap-6">
               <p
                 className="font-sans"
@@ -104,7 +107,6 @@ function GuestTable({
                   fontWeight: "400",
                   letterSpacing: "0.05em",
                   fontSize: "15px",
-                  marginLeft: "5rem",
                 }}
               >
                 Pridružite nam se na početku <br></br>novog poglavlja našeg
