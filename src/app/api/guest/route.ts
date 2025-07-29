@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { initFirebaseAdmin } from "@/firebase/initFirebaseNode";
 import { NextResponse } from "next/server";
 

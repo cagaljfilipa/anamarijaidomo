@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "anamarija-domagoj",
+  "private_key_id": "13574fcf5dd131e04558ac930e9c9a22cd3a9645",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+gU+GCQLqFrCa\nnmAq+cXoiVwDyRVaw+0O4pAnOBZ5DDV0bF2Qi+ABm9SBeotOe6B5nSwYDyFio1fV\nTIPMXYZRQbZvY7gcJtsp5CEYK6vUh3pb1DulYuhmi50Cz3XR9EK1g+SV6Qle5wZe\nqgVm8YrGlLoMrGhf42voyIM7MoZ1WW8zlTfSUOsrLr7R6MXRE4VzktfLM3O4mPfa\nS5pxnvGpXKLB1crESC491qtn+Cr94uQA6/Tp7I31gcMaEtLd2m0Vi8syujnMqVs/\nxFEn/WXiT/eYM4msawJZsoN6clLanhi0Jx3nonmYRPIRggktp9NPOrLxeoMuA4ea\nBieq/hGrAgMBAAECggEADMboegFluCSQcLZZldhNvURlLv3QGFfWsO5iI7c/zpuS\nhD32Yoj3G7SDYrHA4SEqiK2RdQWixBZXgD9TAaRuK0oAfeUOxpiWj281BwV6z1TM\n0Jbh7zw8gRAxFiyq5st+o+T2MlXAYqSVCUlW9moR2DLGba4si+3ZYXH9Vz2SxhD9\nSre1EWUPqyOgttsezzlO1ZUR7BQFuMiqfBCxEcyn9ShF90Wd6eEwEIlymYfZLcZt\nWh38P3HI0mLy6QUbP+de/B9tB2SFUYT53+z6FMj7mbAhygbSw9Zip7U1/E1AtRej\nfW+RjJQPfv6+r92X45WdpWLp6nAhYsXtflWZtTW4hQKBgQDvvJElX3qWAQmIJ337\nTqFT6etRov7CCZ5MMhQYuQNPEQ9H1lithJVn648596bKILE28a8Ne95KugEm36mV\nlyjGbkltn/snkyVPjbk4roRcsCzfTWSdkHhHHlaz48Oh0c64FkZTwqNNF//fjreQ\nXTKmW5TWfxxI5AP7WouWV6BJRQKBgQDLbcFtYvV89gCHri7wOtxOULqggK1/k/2n\ngizIT2ku4VLLJfzEwFGLQGX0IjgeWF5PhXLBjEf23jaKABxJazu/b3gdDWZbdft5\nznlJs8w9i361vRJC8A31q/Jw4ysnILokxPRjg7/GFJFFQweF7/dNc0fIn8str3cw\ncbxR2oUGLwKBgHbR/RaK5hUm2nSTLku6Qxd2Ht3NbXr6jWyyfWdre4paqDowsK7/\nwZVKGSjf59jSr0LOMrb6J8jdu+hqfoDX9Ku0ycv9uNt6gMmXMrA3Pv85imP61d2K\nVzLYhJyQTMwNUunGkIC/PXTeakGBWNXCe3Icff557ajq6lZQIFMZhyYJAoGANaf/\nauC9K3afcSoqS0bbMPTuJMOL/6iDMRmOwk7fyXO5KMgeQa8QUxBrU9dqweZBCeyC\n9jYQDTdTX1bkHyFfowC9x7vvEZSu/dPN/fikmF8gzsLN/EXhCLmPuuLQUQO61VP1\nugHYJWDraD9jzpoaupz7hBlRt/0eDPMS3uwqRhUCgYATD51rWDo1py4X9Uu+NWJ/\nWMNZ30Fqm6trah6wB5C+0Q4t9pZhMe6mblBUlOnr8xt/5ipRLjwQl5zCC1Y8T8k7\nj1adw3L/4c4fBFLudsHEnMKVylTWYVC3S5Y2SEJbaxH+FqAySk5PNrxq4lI6gl0f\nzHsmBAV2pUQxijnDXAVTEQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@anamarija-domagoj.iam.gserviceaccount.com",
+  "client_id": "116305641814844673807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40anamarija-domagoj.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
