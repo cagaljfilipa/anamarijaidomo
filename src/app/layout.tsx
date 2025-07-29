@@ -1,8 +1,10 @@
 import Head from "next/head";
 import "./globals.css";
-import { Inter } from "next/font/google";
+import { Inter, Open_Sans } from "next/font/google";
 
+// Učitaj oba fonta preko Next.js optimiziranog loadera
 const inter = Inter({ subsets: ["latin"] });
+const openSans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Pozivnica za naše vjenčanje | Ana Marija & Domagoj",
@@ -23,7 +25,11 @@ export default function RootLayout({
         <meta property="og:description" content={metadata.description} />
         {/* Dodajte ostale metatagove po potrebi */}
       </Head>
-      <body className={inter.className}>{children}</body>
+
+      {/* Dodajemo oba fonta – ako želiš koristiti samo jedan, možeš maknuti drugi */}
+      <body className={`${inter.className} ${openSans.className}`}>
+        {children}
+      </body>
     </html>
   );
 }
