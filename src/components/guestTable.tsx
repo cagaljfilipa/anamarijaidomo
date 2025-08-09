@@ -72,7 +72,7 @@ function GuestTable({
               paddingLeft: "1em",
             }}
           >
-            Svoj dolazak možete potvrditi ovdje
+            Svoj dolazak možete potvrditi ovdje do 8.9.2025.
           </p>
         )}
       </div>
