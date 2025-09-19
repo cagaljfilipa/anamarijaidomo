@@ -160,7 +160,90 @@ export default function Home() {
             overflow: "hidden",
           }}
         >
-          {/* 📸 Slika pozivnice */}
+          <div
+            className="flex flex-col mx-auto shadow-[0_35px_60px_-15px_rgba(0,0,0,0.3)] shadow-slate-400 relative"
+            style={{
+              minWidth: "400px",
+              maxWidth: "600px",
+              background: "white",
+              borderRadius: "12px",
+              overflow: "hidden",
+              padding: "24px",
+              textAlign: "center",
+            }}
+          >
+            {/* 📢 Mala obavijest */}
+            <h1
+              style={{
+                fontSize: "26px",
+                fontWeight: "bold",
+                textTransform: "uppercase",
+                marginBottom: "20px",
+                color: "#b91c1c",
+                lineHeight: "1.6",
+              }}
+            >
+              Mala obavijest
+            </h1>
+
+            <h2
+              style={{
+                fontSize: "20px",
+                textTransform: "uppercase",
+                lineHeight: "1.8",
+                marginBottom: "16px",
+              }}
+            >
+              Dragi naši, na dan vjenčanja igra se derbi, a u blizini Poljuda su
+              i radovi.
+            </h2>
+
+            <h2
+              style={{
+                fontSize: "20px",
+                textTransform: "uppercase",
+                lineHeight: "1.8",
+                marginBottom: "16px",
+              }}
+            >
+              Prema restoranu <strong>Poljud</strong> možete doći samo sa
+              zapadne strane (od restorana <strong>Mandrach</strong>).
+            </h2>
+
+            <h2
+              style={{
+                fontSize: "20px",
+                textTransform: "uppercase",
+                lineHeight: "1.8",
+                marginBottom: "16px",
+              }}
+            >
+              Tablice smo predali i zaštitari će vas pustiti bez problema.
+            </h2>
+
+            <h2
+              style={{
+                fontSize: "22px",
+                fontWeight: "bold",
+                marginTop: "20px",
+                color: "#dc2626",
+                textTransform: "uppercase",
+              }}
+            >
+              Samo hrabro bijeli, za nas zabijte gol! 🔴🔵
+            </h2>
+            <img
+              src="/images/pozivnica2.png"
+              alt="pozivnica"
+              style={{
+                width: "100%",
+                height: "auto",
+                display: "block",
+                marginTop: "24px",
+              }}
+            />
+          </div>
+
           <img
             src="/images/pozivnica2.png"
             alt="pozivnica"
